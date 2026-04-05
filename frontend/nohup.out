@@ -1,0 +1,319 @@
+
+> frontend@0.1.0 dev
+> vite --host
+
+
+  VITE v7.2.7  ready in 308 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.31.73.8:3000/
+
+> frontend@0.1.0 dev
+> vite --host
+
+
+  VITE v7.2.7  ready in 296 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.31.73.8:3000/
+
+> frontend@0.1.0 dev
+> vite --host
+
+
+  VITE v7.2.7  ready in 316 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.31.73.8:3000/
+
+> frontend@0.1.0 dev
+> vite --host
+
+
+> frontend@0.1.0 dev
+> vite --host
+
+
+  VITE v7.2.7  ready in 534 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.31.73.8:3000/
+3:34:43 AM [vite] http proxy error: /api/graph/ontology/generate
+Error: socket hang up
+    at Socket.socketOnEnd (node:_http_client:528:25)
+    at Socket.emit (node:events:536:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+3:34:45 AM [vite] http proxy error: /api/graph/ontology/generate
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+
+> frontend@0.1.0 dev
+> vite --host
+
+
+  VITE v7.2.7  ready in 436 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.31.73.8:3000/
+2:23:11 PM [vite] http proxy error: /api/graph/ontology/generate
+Error: socket hang up
+    at Socket.socketOnEnd (node:_http_client:528:25)
+    at Socket.emit (node:events:536:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2:23:11 PM [vite] http proxy error: /api/graph/ontology/generate
+Error: socket hang up
+    at Socket.socketOnEnd (node:_http_client:528:25)
+    at Socket.emit (node:events:536:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2:23:13 PM [vite] http proxy error: /api/graph/ontology/generate
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+2:23:14 PM [vite] http proxy error: /api/graph/ontology/generate
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+2:23:16 PM [vite] http proxy error: /api/graph/ontology/generate
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+3:10:07 PM [vite] http proxy error: /api/simulation/history?limit=20
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+3:58:25 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+3:58:26 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+3:58:27 PM [vite] http proxy error: /api/simulation/sim_8166eb086e77/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+3:58:28 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+3:58:29 PM [vite] http proxy error: /api/simulation/sim_8166eb086e77/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+3:58:30 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:23 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+4:07:23 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+4:07:23 PM [vite] http proxy error: /api/simulation/sim_c60c2a8f6640/profiles/realtime?platform=reddit
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+4:07:23 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+4:07:23 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+4:07:23 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+4:07:23 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:23 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:23 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:23 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:23 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:23 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:23 PM [vite] http proxy error: /api/simulation/sim_c60c2a8f6640/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:24 PM [vite] http proxy error: /api/simulation/sim_c60c2a8f6640/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:24 PM [vite] http proxy error: /api/simulation/sim_c60c2a8f6640/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:24 PM [vite] http proxy error: /api/simulation/sim_c60c2a8f6640/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:24 PM [vite] http proxy error: /api/simulation/sim_c60c2a8f6640/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:25 PM [vite] http proxy error: /api/simulation/sim_c60c2a8f6640/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:25 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:27 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:27 PM [vite] http proxy error: /api/simulation/sim_c60c2a8f6640/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:29 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:30 PM [vite] http proxy error: /api/simulation/sim_c60c2a8f6640/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:31 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+4:07:33 PM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+
+> frontend@0.1.0 dev
+> vite --host
+
+
+  VITE v7.2.7  ready in 553 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.31.73.8:3000/
+6:59:04 AM [vite] http proxy error: /api/simulation/sim_61f52a0a37de/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+6:59:04 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+
+> frontend@0.1.0 dev
+> vite --host
+
+
+  VITE v7.2.7  ready in 539 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.31.73.8:3000/
+7:36:58 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+7:36:58 AM [vite] http proxy error: /api/simulation/sim_2dbf608a2ec2/profiles/realtime?platform=reddit
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+7:36:58 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+7:36:58 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+7:36:58 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+7:36:58 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+7:36:58 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:36:58 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:36:58 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:36:58 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:36:58 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:36:58 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:36:59 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:36:59 AM [vite] http proxy error: /api/simulation/sim_2dbf608a2ec2/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:36:59 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:36:59 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:36:59 AM [vite] http proxy error: /api/simulation/sim_2dbf608a2ec2/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:36:59 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:36:59 AM [vite] http proxy error: /api/simulation/sim_2dbf608a2ec2/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:36:59 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:36:59 AM [vite] http proxy error: /api/simulation/sim_2dbf608a2ec2/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:36:59 AM [vite] http proxy error: /api/simulation/sim_2dbf608a2ec2/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:36:59 AM [vite] http proxy error: /api/simulation/sim_2dbf608a2ec2/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:37:00 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:37:00 AM [vite] http proxy error: /api/simulation/sim_2dbf608a2ec2/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:37:00 AM [vite] http proxy error: /api/simulation/sim_2dbf608a2ec2/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:37:00 AM [vite] http proxy error: /api/simulation/sim_2dbf608a2ec2/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:37:01 AM [vite] http proxy error: /api/simulation/sim_2dbf608a2ec2/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:37:02 AM [vite] http proxy error: /api/simulation/sim_2dbf608a2ec2/profiles/realtime?platform=reddit
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:37:02 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+7:37:04 AM [vite] http proxy error: /api/simulation/prepare/status
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+8:30:42 AM [vite] http proxy error: /api/simulation/start
+Error: socket hang up
+    at Socket.socketOnEnd (node:_http_client:528:25)
+    at Socket.emit (node:events:536:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+8:30:43 AM [vite] http proxy error: /api/simulation/sim_37a594b5949f/config
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+8:30:43 AM [vite] http proxy error: /api/graph/project/proj_c7b0abfcc5b6
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+8:30:45 AM [vite] http proxy error: /api/simulation/start
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+8:30:48 AM [vite] http proxy error: /api/simulation/start
+Error: connect ECONNREFUSED 127.0.0.1:5001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+
+> frontend@0.1.0 dev
+> vite --host
+
+
+  VITE v7.2.7  ready in 514 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.31.73.8:3000/
