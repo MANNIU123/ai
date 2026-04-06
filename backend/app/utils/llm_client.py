@@ -7,6 +7,7 @@ import json
 import re
 from typing import Optional, Dict, Any, List
 from openai import OpenAI
+import httpx
 
 from ..config import Config
 
@@ -27,10 +28,19 @@ class LLMClient:
         if not self.api_key:
             raise ValueError("LLM_API_KEY 未配置")
         
+        # 设置httpx客户端，timeout为10分钟（600秒）
+        # connect_timeout: 连接超时60秒
+        # read_timeout: 读取超时600秒
+        # write_timeout: 写入超时60秒
+        # pool_timeout: 连接池超时60秒
+        http_client = httpx.Client(
+            timeout=httpx.Timeout(600.0, connect=60.0, pool=60.0)
+        )
+        
         self.client = OpenAI(
             api_key=self.api_key,
             base_url=self.base_url,
-            timeout=600.0  # 设置timeout为10分钟 (600秒)
+            http_client=http_client
         )
     
     def chat(
