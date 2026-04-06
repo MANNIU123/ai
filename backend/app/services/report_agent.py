@@ -1297,7 +1297,7 @@ class ReportAgent:
             response = self.llm.chat(
                 messages=messages,
                 temperature=0.5,
-                max_tokens=4096
+                max_tokens=1024
             )
 
             # 检查 LLM 返回是否为 None（API 异常或内容为空）
@@ -1500,7 +1500,7 @@ class ReportAgent:
         response = self.llm.chat(
             messages=messages,
             temperature=0.5,
-            max_tokens=4096
+            max_tokens=1024
         )
 
         # 检查强制收尾时 LLM 返回是否为 None
