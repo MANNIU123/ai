@@ -29,7 +29,8 @@ class LLMClient:
         
         self.client = OpenAI(
             api_key=self.api_key,
-            base_url=self.base_url
+            base_url=self.base_url,
+            timeout=600.0  # 设置timeout为10分钟 (600秒)
         )
     
     def chat(
